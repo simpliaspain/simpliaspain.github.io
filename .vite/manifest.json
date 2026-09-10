@@ -1,6 +1,6 @@
 {
-  "_client-jp4f2MtI.js": {
-    "file": "assets/client-jp4f2MtI.js",
+  "_client-DWEenCY0.js": {
+    "file": "assets/client-DWEenCY0.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,23 +8,16 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-CRCGWvFc.js",
+    "file": "assets/app-CIn3Mekb.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-jp4f2MtI.js",
-      "_client-jp4f2MtI.js"
+      "_client-DWEenCY0.js",
+      "_client-DWEenCY0.js"
     ],
     "css": [
       "assets/app-p_RPP13P.css"
-    ],
-    "assets": [
-      "assets/roberto-profile-C0KTvanC.jpg"
     ]
-  },
-  "src/assets/roberto-profile.jpg": {
-    "file": "assets/roberto-profile-C0KTvanC.jpg",
-    "src": "src/assets/roberto-profile.jpg"
   }
 }
