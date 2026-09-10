@@ -1,0 +1,30 @@
+{
+  "_client-DetVu7So.js": {
+    "file": "assets/client-DetVu7So.js",
+    "name": "client",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/app-C9BoiTlM.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "_client-DetVu7So.js",
+      "_client-DetVu7So.js"
+    ],
+    "css": [
+      "assets/app-p_RPP13P.css"
+    ],
+    "assets": [
+      "assets/roberto-profile-C0KTvanC.jpg"
+    ]
+  },
+  "src/assets/roberto-profile.jpg": {
+    "file": "assets/roberto-profile-C0KTvanC.jpg",
+    "src": "src/assets/roberto-profile.jpg"
+  }
+}

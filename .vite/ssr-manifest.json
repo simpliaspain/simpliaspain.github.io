@@ -1,0 +1,1412 @@
+{
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/prop-types/index.js?commonjs-module": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-exports": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/client.js?commonjs-exports": [
+    "/assets/client-DetVu7So.js"
+  ],
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/index.js?commonjs-module": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react/cjs/react-jsx-runtime.production.min.js?commonjs-exports": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react/cjs/react.production.min.js?commonjs-exports": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react/index.js?commonjs-module": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react/jsx-runtime.js?commonjs-module": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-exports": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/scheduler/index.js?commonjs-module": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000vite/modulepreload-polyfill.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "\u0000vite/preload-helper.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "index.html": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@floating-ui/core/dist/floating-ui.core.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@floating-ui/dom/dist/floating-ui.dom.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@floating-ui/react-dom/dist/floating-ui.react-dom.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@floating-ui/utils/dist/floating-ui.utils.dom.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@floating-ui/utils/dist/floating-ui.utils.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/primitive/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-arrow/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-collection/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-compose-refs/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-context/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-dialog/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-dismissable-layer/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-focus-guards/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-focus-scope/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-id/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-label/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-popper/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-portal/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-presence/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-primitive/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-slot/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-toast/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-tooltip/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-use-callback-ref/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-use-controllable-state/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-use-escape-keydown/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-use-layout-effect/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-use-size/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@radix-ui/react-visually-hidden/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@remix-run/router/dist/router.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/focusManager.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/infiniteQueryBehavior.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/mutation.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/mutationCache.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/notifyManager.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/onlineManager.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/query.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/queryCache.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/queryClient.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/removable.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/retryer.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/subscribable.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/thenable.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/query-core/build/modern/utils.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/@tanstack/react-query/build/modern/QueryClientProvider.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/aria-hidden/dist/es2015/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/class-variance-authority/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/clsx/dist/clsx.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/animate/single-value.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/animators/waapi/utils/get-final-keyframe.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/interfaces/motion-value.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/interfaces/visual-element-target.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/interfaces/visual-element-variant.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/interfaces/visual-element.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/optimized-appear/data-id.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/optimized-appear/get-appear-id.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/calc-child-stagger.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/default-transitions.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/is-animation-controls.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/is-keyframes-target.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/animation/utils/is-transition-defined.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/components/AnimatePresence/PopChild.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/components/AnimatePresence/PresenceChild.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/components/AnimatePresence/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/components/AnimatePresence/use-presence.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/components/AnimatePresence/utils.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/context/LayoutGroupContext.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/context/LazyContext.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/context/MotionConfigContext.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/context/MotionContext/create.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/context/MotionContext/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/context/MotionContext/utils.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/context/PresenceContext.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/context/SwitchLayoutGroupContext.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/events/add-dom-event.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/events/add-pointer-event.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/events/event-info.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/drag/VisualElementDragControls.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/drag/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/drag/utils/constraints.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/focus.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/hover.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/pan/PanSession.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/pan/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/gestures/press.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/Feature.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/animation/exit.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/animation/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/animations.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/definitions.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/drag.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/gestures.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/layout.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/layout/MeasureLayout.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/load-features.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/viewport/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/features/viewport/observers.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/is-forced-motion-value.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/symbol.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/use-motion-ref.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/use-visual-element.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/use-visual-state.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/motion/utils/valid-prop.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/animation/mix-values.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/conversion.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/copy.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/delta-apply.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/delta-calc.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/delta-remove.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/models.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/geometry/utils.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/node/DocumentProjectionNode.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/node/HTMLProjectionNode.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/node/create-projection-node.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/node/state.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/shared/stack.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/styles/scale-border-radius.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/styles/scale-box-shadow.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/styles/scale-correction.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/styles/transform.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/utils/each-axis.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/utils/has-transform.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/projection/utils/measure.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/VisualElement.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/components/create-proxy.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/components/motion/feature-bundle.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/components/motion/proxy.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/DOMVisualElement.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/create-visual-element.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/use-render.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/camel-to-dash.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/filter-props.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/dom/utils/is-svg-component.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/HTMLVisualElement.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/use-html-visual-state.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/use-props.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/build-styles.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/build-transform.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/create-render-state.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/render.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/html/utils/scrape-motion-values.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/store.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/SVGVisualElement.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/lowercase-elements.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/use-props.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/use-svg-visual-state.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/build-attrs.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/camel-case-attrs.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/create-render-state.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/is-svg-tag.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/path.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/render.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/svg/utils/scrape-motion-values.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/animation-state.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/compare-by-depth.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/flat-tree.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/get-variant-context.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/is-controlling-variants.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/is-variant-label.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/motion-values.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/resolve-dynamic-variants.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/resolve-variants.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/setters.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/render/utils/variant-props.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/delay.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/distance.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/get-context-window.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/is-browser.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/is-ref-object.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/reduced-motion/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/reduced-motion/state.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/reduced-motion/use-reduced-motion.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/shallow-compare.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/use-composed-ref.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/use-constant.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/utils/use-isomorphic-effect.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/value/use-will-change/add-will-change.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/value/use-will-change/is.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/framer-motion/dist/es/value/utils/resolve-motion-value.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/get-nonce/dist/es2015/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/Icon.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/createLucideIcon.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/defaultAttributes.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/arrow-right.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/award.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/bot.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/calendar.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/check.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/chevron-down.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/chevron-right.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/circle-check.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/circle-help.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/clock.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/credit-card.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/dollar-sign.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/file-text.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/globe.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/headphones.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/instagram.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/loader-circle.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/mail.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/menu.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/message-circle.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/message-square.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/mic.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/pause.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/phone.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/play.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/send.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/shield-check.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/sparkles.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/target.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/user.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/users.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/volume-2.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/x.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/zap.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/lucide-react/dist/esm/shared/src/utils.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/AsyncMotionValueAnimation.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/JSAnimation.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/NativeAnimation.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/NativeAnimationExtended.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/drivers/frame.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/generators/inertia.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/generators/keyframes.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/generators/spring/defaults.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/generators/spring/find.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/generators/spring/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/generators/utils/calc-duration.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/generators/utils/create-generator-easing.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/generators/utils/is-generator.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/generators/utils/velocity.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/DOMKeyframesResolver.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/KeyframesResolver.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/get-final.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/offsets/default.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/offsets/fill.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/offsets/time.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/utils/fill-wildcards.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/utils/is-none.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/utils/make-none-animatable.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/keyframes/utils/unit-conversion.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/utils/WithPromise.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/utils/can-animate.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/utils/css-variables-conversion.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/utils/get-value-transition.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/utils/is-animatable.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/utils/is-css-variable.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/utils/make-animation-instant.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/utils/replace-transition-type.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/waapi/easing/cubic-bezier.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/waapi/easing/map-easing.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/waapi/easing/supported.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/waapi/start-waapi-animation.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/waapi/supports/waapi.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/waapi/utils/apply-generator.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/waapi/utils/linear.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/animation/waapi/utils/unsupported-easing.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/frameloop/batcher.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/frameloop/frame.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/frameloop/microtask.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/frameloop/order.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/frameloop/render-step.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/frameloop/sync-time.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/drag/state/is-active.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/drag/state/set-active.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/hover.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/press/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/press/utils/is-keyboard-accessible.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/press/utils/keyboard.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/press/utils/state.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/utils/is-node-or-child.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/utils/is-primary-pointer.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/gestures/utils/setup.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/render/dom/is-css-var.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/render/dom/parse-transform.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/render/dom/style-set.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/render/utils/keys-position.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/render/utils/keys-transform.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/stats/buffer.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/interpolate.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/is-html-element.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/is-svg-element.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/is-svg-svg-element.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/mix/color.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/mix/complex.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/mix/immediate.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/mix/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/mix/number.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/mix/visibility.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/resolve-elements.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/supports/flags.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/supports/linear-easing.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/supports/memo.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/utils/supports/scroll-timeline.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/auto.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/color/hex.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/color/hsla-to-rgba.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/color/hsla.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/color/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/color/rgba.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/color/utils.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/complex/filter.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/complex/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/dimensions.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/int.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/maps/defaults.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/maps/number.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/maps/transform.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/numbers/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/numbers/units.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/test.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/utils/animatable-none.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/utils/color-regex.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/utils/find.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/utils/float-regex.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/utils/get-as-type.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/utils/is-nullish.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/utils/sanitize.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/types/utils/single-color-regex.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-dom/dist/es/value/utils/is-motion-value.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/array.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/clamp.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/anticipate.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/back.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/circ.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/cubic-bezier.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/ease.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/modifiers/mirror.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/modifiers/reverse.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/utils/is-bezier-definition.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/utils/is-easing-array.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/easing/utils/map.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/errors.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/global-config.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/is-numerical-string.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/is-object.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/is-zero-value-string.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/memo.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/noop.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/pipe.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/progress.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/subscription-manager.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/time-conversion.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/motion-utils/dist/es/velocity-per-second.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/next-themes/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/prop-types/factoryWithThrowingShims.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/prop-types/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/prop-types/lib/ReactPropTypesSecret.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-dom/cjs/react-dom.production.min.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-dom/client.js": [
+    "/assets/client-DetVu7So.js"
+  ],
+  "node_modules/react-dom/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-helmet-async/lib/index.module.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll-bar/dist/es2015/component.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll-bar/dist/es2015/constants.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll-bar/dist/es2015/utils.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll/dist/es2015/Combination.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll/dist/es2015/SideEffect.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll/dist/es2015/UI.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll/dist/es2015/aggresiveCapture.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll/dist/es2015/handleScroll.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll/dist/es2015/medium.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-remove-scroll/dist/es2015/sidecar.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-router-dom/dist/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-router/dist/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-style-singleton/dist/es2015/component.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-style-singleton/dist/es2015/hook.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-style-singleton/dist/es2015/singleton.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react/cjs/react-jsx-runtime.production.min.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react/cjs/react.production.min.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react/jsx-runtime.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/scheduler/cjs/scheduler.production.min.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/scheduler/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/sonner/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/tailwind-merge/dist/bundle-mjs.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/tslib/tslib.es6.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/use-callback-ref/dist/es2015/assignRef.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/use-callback-ref/dist/es2015/useMergeRef.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/use-callback-ref/dist/es2015/useRef.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/use-sidecar/dist/es2015/exports.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/use-sidecar/dist/es2015/medium.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/vite-react-ssg/dist/index.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.BhGKpaqQ.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.C6pK7rvr.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.DTTf7HZy.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/zod/v3/ZodError.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/zod/v3/errors.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/zod/v3/helpers/errorUtil.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/zod/v3/helpers/parseUtil.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/zod/v3/helpers/util.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/zod/v3/locales/en.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/zod/v3/types.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/RootLayout.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/airtable.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/anthropic.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/apollo.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/brevo.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/framer.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/google.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/googlecloud.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/hostinger.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/make.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/meta.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/microsoft.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/n8n.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/notion.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/openai.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/perplexity.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/shopify.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/slack.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/supabase.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/telegram.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/wordpress.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/logos/zapier.svg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/assets/roberto-profile.jpg": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ChatbotWidget.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ClientAccessButton.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/Footer.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/LanguageToggle.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/LogoMarquee.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/MainMenu.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/Navbar.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ScrollToTop.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/TrustBadge.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/sections/BenefitsSection.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/sections/CTASection.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/sections/FAQSection.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/sections/HeroSection.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/sections/MethodSection.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/sections/ServicesSection.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ui/button.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ui/dialog.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ui/input.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ui/label.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ui/sonner.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ui/textarea.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ui/toast.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ui/toaster.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/components/ui/tooltip.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/contexts/LanguageContext.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/hooks/use-main-menu.ts": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/hooks/use-toast.ts": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/index.css": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/lib/scroll-lock.ts": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/lib/utils.ts": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/main.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/pages/AgentesTelefonicos.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/pages/ChatbotsMulticanal.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/pages/Contacto.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/pages/Index.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/pages/NotFound.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/pages/PoliticaPrivacidad.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/routes.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ]
+}
