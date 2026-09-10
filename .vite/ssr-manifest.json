@@ -6,7 +6,7 @@
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
   "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/client.js?commonjs-exports": [
-    "/assets/client-DWuJdSRc.js"
+    "/assets/client-JJ8Hy9nW.js"
   ],
   "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/index.js?commonjs-module": [
     "/assets/roberto-profile-C0KTvanC.jpg"
@@ -584,6 +584,9 @@
   "node_modules/get-nonce/dist/es2015/index.js": [
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
+  "node_modules/invariant/browser.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
   "node_modules/lucide-react/dist/esm/Icon.js": [
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
@@ -1098,9 +1101,12 @@
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
   "node_modules/react-dom/client.js": [
-    "/assets/client-DWuJdSRc.js"
+    "/assets/client-JJ8Hy9nW.js"
   ],
   "node_modules/react-dom/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/react-fast-compare/index.js": [
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
   "node_modules/react-helmet-async/lib/index.module.js": [
@@ -1169,6 +1175,9 @@
   "node_modules/scheduler/index.js": [
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
+  "node_modules/shallowequal/index.js": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
   "node_modules/sonner/dist/index.mjs": [
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
@@ -1200,6 +1209,9 @@
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
   "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.C6pK7rvr.mjs": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.CoMLbIiW.mjs": [
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
   "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.DTTf7HZy.mjs": [
@@ -1319,6 +1331,9 @@
   "src/components/ScrollToTop.tsx": [
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
+  "src/components/Seo.tsx": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
   "src/components/TrustBadge.tsx": [
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
@@ -1380,6 +1395,9 @@
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
   "src/lib/scroll-lock.ts": [
+    "/assets/roberto-profile-C0KTvanC.jpg"
+  ],
+  "src/lib/site.ts": [
     "/assets/roberto-profile-C0KTvanC.jpg"
   ],
   "src/lib/utils.ts": [
