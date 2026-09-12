@@ -1,6 +1,6 @@
 {
-  "_client-TaCoOCUD.js": {
-    "file": "assets/client-TaCoOCUD.js",
+  "_client-DM1xPZpq.js": {
+    "file": "assets/client-DM1xPZpq.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,16 +8,16 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-PI9AVTuw.js",
+    "file": "assets/app-kwcFxGzE.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-TaCoOCUD.js",
-      "_client-TaCoOCUD.js"
+      "_client-DM1xPZpq.js",
+      "_client-DM1xPZpq.js"
     ],
     "css": [
-      "assets/app-DdABCxwm.css"
+      "assets/app-86ywtoUc.css"
     ],
     "assets": [
       "assets/ondacero-entrevista-720-CQSMlvkH.jpg",
