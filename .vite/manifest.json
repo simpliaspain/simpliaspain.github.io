@@ -1,6 +1,6 @@
 {
-  "_client-jCVjyHuY.js": {
-    "file": "assets/client-jCVjyHuY.js",
+  "_client-S4Qxhhxs.js": {
+    "file": "assets/client-S4Qxhhxs.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,16 +8,28 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-D73lIXO4.js",
+    "file": "assets/app-CbvRLtY-.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-jCVjyHuY.js",
-      "_client-jCVjyHuY.js"
+      "_client-S4Qxhhxs.js",
+      "_client-S4Qxhhxs.js"
     ],
     "css": [
-      "assets/app-BDl_f18n.css"
+      "assets/app-DdABCxwm.css"
+    ],
+    "assets": [
+      "assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+      "assets/ondacero-entrevista-1440-nmKLPta1.jpg"
     ]
+  },
+  "src/assets/press/ondacero-entrevista-1440.jpg": {
+    "file": "assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "src": "src/assets/press/ondacero-entrevista-1440.jpg"
+  },
+  "src/assets/press/ondacero-entrevista-720.jpg": {
+    "file": "assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "src": "src/assets/press/ondacero-entrevista-720.jpg"
   }
 }
