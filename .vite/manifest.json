@@ -1,6 +1,6 @@
 {
-  "_client-S4Qxhhxs.js": {
-    "file": "assets/client-S4Qxhhxs.js",
+  "_client-TaCoOCUD.js": {
+    "file": "assets/client-TaCoOCUD.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,13 +8,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-CbvRLtY-.js",
+    "file": "assets/app-PI9AVTuw.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-S4Qxhhxs.js",
-      "_client-S4Qxhhxs.js"
+      "_client-TaCoOCUD.js",
+      "_client-TaCoOCUD.js"
     ],
     "css": [
       "assets/app-DdABCxwm.css"
