@@ -1,6 +1,6 @@
 {
-  "_client-Ca8aweiA.js": {
-    "file": "assets/client-Ca8aweiA.js",
+  "_client-B7vcbPDx.js": {
+    "file": "assets/client-B7vcbPDx.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,16 +8,16 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-BCaQX2RM.js",
+    "file": "assets/app-BHn4Kqtg.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-Ca8aweiA.js",
-      "_client-Ca8aweiA.js"
+      "_client-B7vcbPDx.js",
+      "_client-B7vcbPDx.js"
     ],
     "css": [
-      "assets/app-DWmNFjaG.css"
+      "assets/app-DZM6Nunp.css"
     ],
     "assets": [
       "assets/whatsapp-demo-400-B_kmVO9T.jpg",
