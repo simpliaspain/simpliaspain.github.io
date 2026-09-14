@@ -1,6 +1,6 @@
 {
-  "_client-BIthegrf.js": {
-    "file": "assets/client-BIthegrf.js",
+  "_client-BmhipBqe.js": {
+    "file": "assets/client-BmhipBqe.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,16 +8,16 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-CdcxlH7g.js",
+    "file": "assets/app-CDbOCjsQ.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-BIthegrf.js",
-      "_client-BIthegrf.js"
+      "_client-BmhipBqe.js",
+      "_client-BmhipBqe.js"
     ],
     "css": [
-      "assets/app-Lj_Wbk8q.css"
+      "assets/app-CHGBy6y7.css"
     ],
     "assets": [
       "assets/ondacero-entrevista-720-CQSMlvkH.jpg",
