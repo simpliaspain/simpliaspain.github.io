@@ -1,6 +1,6 @@
 {
-  "_client-C_HdBUPD.js": {
-    "file": "assets/client-C_HdBUPD.js",
+  "_client-5zaIKvug.js": {
+    "file": "assets/client-5zaIKvug.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,16 +8,16 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-D_8HR6hh.js",
+    "file": "assets/app-BJHusjDg.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-C_HdBUPD.js",
-      "_client-C_HdBUPD.js"
+      "_client-5zaIKvug.js",
+      "_client-5zaIKvug.js"
     ],
     "css": [
-      "assets/app-Cpdb5KUM.css"
+      "assets/app-DL-WTpbj.css"
     ],
     "assets": [
       "assets/whatsapp-demo-400-B_kmVO9T.jpg",
