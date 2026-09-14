@@ -1,6 +1,6 @@
 {
-  "_client-BAEP1d6r.js": {
-    "file": "assets/client-BAEP1d6r.js",
+  "_client-Ca8aweiA.js": {
+    "file": "assets/client-Ca8aweiA.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,13 +8,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-BNeurOai.js",
+    "file": "assets/app-BCaQX2RM.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-BAEP1d6r.js",
-      "_client-BAEP1d6r.js"
+      "_client-Ca8aweiA.js",
+      "_client-Ca8aweiA.js"
     ],
     "css": [
       "assets/app-DWmNFjaG.css"
