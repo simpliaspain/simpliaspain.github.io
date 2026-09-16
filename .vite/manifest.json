@@ -1,6 +1,6 @@
 {
-  "_client-Bec3nFVs.js": {
-    "file": "assets/client-Bec3nFVs.js",
+  "_client-3leCEllw.js": {
+    "file": "assets/client-3leCEllw.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,16 +8,16 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-y3nPNCCM.js",
+    "file": "assets/app-d7_9kP1u.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-Bec3nFVs.js",
-      "_client-Bec3nFVs.js"
+      "_client-3leCEllw.js",
+      "_client-3leCEllw.js"
     ],
     "css": [
-      "assets/app-Djr1zK6L.css"
+      "assets/app-Bu5-xiPr.css"
     ],
     "assets": [
       "assets/whatsapp-demo-400-Dxsh5Ine.jpg",
