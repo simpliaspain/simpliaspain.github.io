@@ -1,6 +1,6 @@
 {
-  "_client-CW79t3hz.js": {
-    "file": "assets/client-CW79t3hz.js",
+  "_client-DC7_lrVw.js": {
+    "file": "assets/client-DC7_lrVw.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,20 +8,26 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-DlAjAe_Z.js",
+    "file": "assets/app-CMa5kFbj.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-CW79t3hz.js",
-      "_client-CW79t3hz.js"
+      "_client-DC7_lrVw.js",
+      "_client-DC7_lrVw.js"
     ],
     "css": [
-      "assets/app-Bu5-xiPr.css"
+      "assets/app-pwVSb5LS.css"
     ],
     "assets": [
-      "assets/whatsapp-demo-400-DMr6at3r.jpg",
-      "assets/whatsapp-demo-800-CUFQwzgY.jpg",
+      "assets/whatsapp-demo-400-D22FCxb5.jpg",
+      "assets/whatsapp-demo-800-DNbkekDr.jpg",
+      "assets/whatsapp-demo-1200-C2M3k4Ut.jpg",
+      "assets/whatsapp-demo-1600-Du75yTo-.jpg",
+      "assets/whatsapp-demo-400-BBlfAenO.webp",
+      "assets/whatsapp-demo-800-DT3ktD_O.webp",
+      "assets/whatsapp-demo-1200-DIMI3qVj.webp",
+      "assets/whatsapp-demo-1600-CzBFh2nS.webp",
       "assets/ondacero-entrevista-720-CQSMlvkH.jpg",
       "assets/ondacero-entrevista-1440-nmKLPta1.jpg",
       "assets/logo-mn24h-2x-M8oDfTNa.png"
@@ -39,12 +45,36 @@
     "file": "assets/ondacero-entrevista-720-CQSMlvkH.jpg",
     "src": "src/assets/press/ondacero-entrevista-720.jpg"
   },
+  "src/assets/services/whatsapp-demo-1200.jpg": {
+    "file": "assets/whatsapp-demo-1200-C2M3k4Ut.jpg",
+    "src": "src/assets/services/whatsapp-demo-1200.jpg"
+  },
+  "src/assets/services/whatsapp-demo-1200.webp": {
+    "file": "assets/whatsapp-demo-1200-DIMI3qVj.webp",
+    "src": "src/assets/services/whatsapp-demo-1200.webp"
+  },
+  "src/assets/services/whatsapp-demo-1600.jpg": {
+    "file": "assets/whatsapp-demo-1600-Du75yTo-.jpg",
+    "src": "src/assets/services/whatsapp-demo-1600.jpg"
+  },
+  "src/assets/services/whatsapp-demo-1600.webp": {
+    "file": "assets/whatsapp-demo-1600-CzBFh2nS.webp",
+    "src": "src/assets/services/whatsapp-demo-1600.webp"
+  },
   "src/assets/services/whatsapp-demo-400.jpg": {
-    "file": "assets/whatsapp-demo-400-DMr6at3r.jpg",
+    "file": "assets/whatsapp-demo-400-D22FCxb5.jpg",
     "src": "src/assets/services/whatsapp-demo-400.jpg"
   },
+  "src/assets/services/whatsapp-demo-400.webp": {
+    "file": "assets/whatsapp-demo-400-BBlfAenO.webp",
+    "src": "src/assets/services/whatsapp-demo-400.webp"
+  },
   "src/assets/services/whatsapp-demo-800.jpg": {
-    "file": "assets/whatsapp-demo-800-CUFQwzgY.jpg",
+    "file": "assets/whatsapp-demo-800-DNbkekDr.jpg",
     "src": "src/assets/services/whatsapp-demo-800.jpg"
+  },
+  "src/assets/services/whatsapp-demo-800.webp": {
+    "file": "assets/whatsapp-demo-800-DT3ktD_O.webp",
+    "src": "src/assets/services/whatsapp-demo-800.webp"
   }
 }
