@@ -14,7 +14,7 @@
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
   "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/client.js?commonjs-exports": [
-    "/assets/client-Ci_dk1Ym.js"
+    "/assets/client-BiRKfMwA.js"
   ],
   "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/index.js?commonjs-module": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
@@ -163,35 +163,7 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "node_modules/@radix-ui/react-dialog/dist/index.mjs": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
   "node_modules/@radix-ui/react-dismissable-layer/dist/index.mjs": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/@radix-ui/react-focus-guards/dist/index.mjs": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/@radix-ui/react-focus-scope/dist/index.mjs": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/@radix-ui/react-id/dist/index.mjs": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -402,13 +374,6 @@
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
   "node_modules/@tanstack/react-query/build/modern/QueryClientProvider.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/aria-hidden/dist/es2015/index.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -1353,13 +1318,6 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "node_modules/get-nonce/dist/es2015/index.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
   "node_modules/invariant/browser.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
@@ -1395,7 +1353,14 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "node_modules/lucide-react/dist/esm/icons/award.js": [
+  "node_modules/lucide-react/dist/esm/icons/badge-check.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/bell-ring.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -1409,7 +1374,35 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
+  "node_modules/lucide-react/dist/esm/icons/building-2.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/calendar-check.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
   "node_modules/lucide-react/dist/esm/icons/calendar.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/chart-column.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/check-check.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -1444,6 +1437,20 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
+  "node_modules/lucide-react/dist/esm/icons/circle-dot.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/clock-3.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
   "node_modules/lucide-react/dist/esm/icons/clock.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
@@ -1451,14 +1458,7 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "node_modules/lucide-react/dist/esm/icons/credit-card.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/lucide-react/dist/esm/icons/dollar-sign.js": [
+  "node_modules/lucide-react/dist/esm/icons/door-open.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -1486,7 +1486,7 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "node_modules/lucide-react/dist/esm/icons/headphones.js": [
+  "node_modules/lucide-react/dist/esm/icons/image.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -1494,6 +1494,20 @@
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
   "node_modules/lucide-react/dist/esm/icons/instagram.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/layout-dashboard.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/linkedin.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -1563,6 +1577,13 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
+  "node_modules/lucide-react/dist/esm/icons/route.js": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
   "node_modules/lucide-react/dist/esm/icons/send.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
@@ -1570,21 +1591,7 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "node_modules/lucide-react/dist/esm/icons/shield-check.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/lucide-react/dist/esm/icons/target.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/lucide-react/dist/esm/icons/user.js": [
+  "node_modules/lucide-react/dist/esm/icons/tag.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -1598,13 +1605,6 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "node_modules/lucide-react/dist/esm/icons/volume-2.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
   "node_modules/lucide-react/dist/esm/icons/x.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
@@ -1612,7 +1612,7 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "node_modules/lucide-react/dist/esm/icons/zap.js": [
+  "node_modules/lucide-react/dist/esm/icons/youtube.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -2558,7 +2558,7 @@
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
   "node_modules/react-dom/client.js": [
-    "/assets/client-Ci_dk1Ym.js"
+    "/assets/client-BiRKfMwA.js"
   ],
   "node_modules/react-dom/index.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
@@ -2581,76 +2581,6 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "node_modules/react-remove-scroll-bar/dist/es2015/component.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-remove-scroll-bar/dist/es2015/constants.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-remove-scroll-bar/dist/es2015/utils.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-remove-scroll/dist/es2015/Combination.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-remove-scroll/dist/es2015/SideEffect.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-remove-scroll/dist/es2015/UI.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-remove-scroll/dist/es2015/aggresiveCapture.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-remove-scroll/dist/es2015/handleScroll.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-remove-scroll/dist/es2015/medium.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-remove-scroll/dist/es2015/sidecar.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
   "node_modules/react-router-dom/dist/index.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
@@ -2659,27 +2589,6 @@
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
   "node_modules/react-router/dist/index.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-style-singleton/dist/es2015/component.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-style-singleton/dist/es2015/hook.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/react-style-singleton/dist/es2015/singleton.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -2743,48 +2652,6 @@
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
   "node_modules/tailwind-merge/dist/bundle-mjs.mjs": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/tslib/tslib.es6.mjs": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/use-callback-ref/dist/es2015/assignRef.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/use-callback-ref/dist/es2015/useMergeRef.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/use-callback-ref/dist/es2015/useRef.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/use-sidecar/dist/es2015/exports.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "node_modules/use-sidecar/dist/es2015/medium.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -2882,153 +2749,6 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "src/assets/logos/airtable.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/anthropic.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/apollo.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/brevo.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/framer.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/google.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/googlecloud.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/hostinger.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/make.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/meta.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/microsoft.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/n8n.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/notion.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/openai.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/perplexity.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/shopify.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/slack.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/supabase.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/telegram.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/wordpress.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/assets/logos/zapier.svg": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
   "src/assets/press/logo-esradio-1x.png": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
@@ -3113,7 +2833,28 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
+  "src/components/DemoLinks.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "src/components/ExampleChat.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
   "src/components/Footer.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "src/components/ImpactCounter.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -3128,13 +2869,6 @@
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
   "src/components/LanguageToggle.tsx": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
-  "src/components/LogoMarquee.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -3190,13 +2924,6 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "src/components/sections/BenefitsSection.tsx": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
   "src/components/sections/CTASection.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
@@ -3204,7 +2931,21 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
+  "src/components/sections/CaseSection.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
   "src/components/sections/FAQSection.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "src/components/sections/ForWhoSection.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -3232,6 +2973,20 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
+  "src/components/sections/PricingSection.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "src/components/sections/ProblemSection.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
   "src/components/sections/ServicesSection.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
@@ -3239,14 +2994,14 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "src/components/ui/button.tsx": [
+  "src/components/sections/TrustSection.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "src/components/ui/dialog.tsx": [
+  "src/components/ui/button.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
@@ -3337,13 +3092,6 @@
     "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
-  "src/lib/scroll.ts": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
-    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
-    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
-    "/assets/logo-mn24h-2x-M8oDfTNa.png"
-  ],
   "src/lib/site.ts": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
@@ -3373,6 +3121,13 @@
     "/assets/logo-mn24h-2x-M8oDfTNa.png"
   ],
   "src/pages/ChatbotsMulticanal.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
+    "/assets/ondacero-entrevista-1440-nmKLPta1.jpg",
+    "/assets/logo-mn24h-2x-M8oDfTNa.png"
+  ],
+  "src/pages/ComoTrabajamos.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/ondacero-entrevista-720-CQSMlvkH.jpg",
