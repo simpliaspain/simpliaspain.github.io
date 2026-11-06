@@ -8,7 +8,7 @@
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
   "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/client.js?commonjs-exports": [
-    "/assets/client-B_93hjVT.js"
+    "/assets/client-DlssepFe.js"
   ],
   "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/index.js?commonjs-module": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
@@ -778,15 +778,7 @@
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
-  "node_modules/lucide-react/dist/esm/icons/check.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
-  ],
   "node_modules/lucide-react/dist/esm/icons/circle-check.js": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
-  ],
-  "node_modules/lucide-react/dist/esm/icons/circle-dot.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
@@ -1387,7 +1379,7 @@
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
   "node_modules/react-dom/client.js": [
-    "/assets/client-B_93hjVT.js"
+    "/assets/client-DlssepFe.js"
   ],
   "node_modules/react-dom/index.js": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
@@ -1513,6 +1505,10 @@
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
+  "src/components/ClientMark.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
+  ],
   "src/components/DemoLinks.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
@@ -1549,10 +1545,6 @@
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
-  "src/components/Section.tsx": [
-    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
-    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
-  ],
   "src/components/Seo.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
@@ -1586,6 +1578,10 @@
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
   "src/components/sections/HomeSteps.tsx": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
+  ],
+  "src/components/sections/PageHero.tsx": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
@@ -1638,6 +1634,10 @@
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
   "src/index.css": [
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
+  ],
+  "src/lib/button-styles.ts": [
     "/assets/simplia-demo-1024-BmgMIDe_.mp4",
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp"
   ],
