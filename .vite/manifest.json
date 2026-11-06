@@ -1,6 +1,6 @@
 {
-  "_client-CZtukf9U.js": {
-    "file": "assets/client-CZtukf9U.js",
+  "_client-HRfpusby.js": {
+    "file": "assets/client-HRfpusby.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,16 +8,16 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-CcIFv7jB.js",
+    "file": "assets/app-CtoGsJLK.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-CZtukf9U.js",
-      "_client-CZtukf9U.js"
+      "_client-HRfpusby.js",
+      "_client-HRfpusby.js"
     ],
     "css": [
-      "assets/app-VfP831Mf.css"
+      "assets/app-BfnYvdpf.css"
     ],
     "assets": [
       "assets/madridnorte24h-CQSMlvkH.jpg",
