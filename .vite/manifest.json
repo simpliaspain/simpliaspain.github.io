@@ -1,6 +1,6 @@
 {
-  "_client-Ijd6SRsl.js": {
-    "file": "assets/client-Ijd6SRsl.js",
+  "_client-CI0gwqUP.js": {
+    "file": "assets/client-CI0gwqUP.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,20 +8,22 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-Bz1bfQ5L.js",
+    "file": "assets/app-LwsauVSc.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-Ijd6SRsl.js",
-      "_client-Ijd6SRsl.js"
+      "_client-CI0gwqUP.js",
+      "_client-CI0gwqUP.js"
     ],
     "css": [
-      "assets/app-H4-WHySq.css"
+      "assets/app-5UOdKhY3.css"
     ],
     "assets": [
       "assets/despacho-8-DlMtWi0s.webp",
       "assets/despacho-8@2x-1uw83Ffy.webp",
+      "assets/equipo-CXRK1Tqj.webp",
+      "assets/equipo@2x-CutqzS7j.webp",
       "assets/madridnorte24h-CQSMlvkH.jpg",
       "assets/madridnorte24h@2x-nmKLPta1.jpg",
       "assets/simplia-demo-1024-BmgMIDe_.mp4",
@@ -40,6 +42,14 @@
   "src/assets/photos/despacho-8@2x.webp": {
     "file": "assets/despacho-8@2x-1uw83Ffy.webp",
     "src": "src/assets/photos/despacho-8@2x.webp"
+  },
+  "src/assets/photos/equipo.webp": {
+    "file": "assets/equipo-CXRK1Tqj.webp",
+    "src": "src/assets/photos/equipo.webp"
+  },
+  "src/assets/photos/equipo@2x.webp": {
+    "file": "assets/equipo@2x-CutqzS7j.webp",
+    "src": "src/assets/photos/equipo@2x.webp"
   },
   "src/assets/photos/madridnorte24h.jpg": {
     "file": "assets/madridnorte24h-CQSMlvkH.jpg",
