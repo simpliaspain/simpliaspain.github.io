@@ -1,6 +1,6 @@
 {
-  "_client-DDMfetLC.js": {
-    "file": "assets/client-DDMfetLC.js",
+  "_client-BuSuyWOq.js": {
+    "file": "assets/client-BuSuyWOq.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,13 +8,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-wjMv_qKr.js",
+    "file": "assets/app-CzxI-hJC.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-DDMfetLC.js",
-      "_client-DDMfetLC.js"
+      "_client-BuSuyWOq.js",
+      "_client-BuSuyWOq.js"
     ],
     "css": [
       "assets/app-CcR2YBGK.css"
@@ -31,6 +31,7 @@
       "assets/ieavanzado@2x-BIqGYOj_.webp",
       "assets/madridnorte24h-CQSMlvkH.jpg",
       "assets/madridnorte24h@2x-nmKLPta1.jpg",
+      "assets/ding-MyT9QKKr.mp3",
       "assets/simplia-demo-1024-BmgMIDe_.mp4",
       "assets/simplia-demo-poster-1024-DH3EJkm8.webp",
       "assets/oficinasya-DCZI6O70.png"
@@ -91,5 +92,9 @@
   "src/assets/services/simplia-demo-poster-1024.webp": {
     "file": "assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "src": "src/assets/services/simplia-demo-poster-1024.webp"
+  },
+  "src/assets/sounds/ding.mp3": {
+    "file": "assets/ding-MyT9QKKr.mp3",
+    "src": "src/assets/sounds/ding.mp3"
   }
 }
