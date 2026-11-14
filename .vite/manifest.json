@@ -1,6 +1,6 @@
 {
-  "_client-MNDaJNjn.js": {
-    "file": "assets/client-MNDaJNjn.js",
+  "_client-Dhr36dJ4.js": {
+    "file": "assets/client-Dhr36dJ4.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,16 +8,16 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-BoxuyFHQ.js",
+    "file": "assets/app-DKlSrRep.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-MNDaJNjn.js",
-      "_client-MNDaJNjn.js"
+      "_client-Dhr36dJ4.js",
+      "_client-Dhr36dJ4.js"
     ],
     "css": [
-      "assets/app-CcR2YBGK.css"
+      "assets/app-Cr0eY-XG.css"
     ],
     "assets": [
       "assets/despacho-8-DlMtWi0s.webp",
