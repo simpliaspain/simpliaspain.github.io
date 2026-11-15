@@ -1,6 +1,6 @@
 {
-  "_client-Cl3NMvu6.js": {
-    "file": "assets/client-Cl3NMvu6.js",
+  "_client-By3oic88.js": {
+    "file": "assets/client-By3oic88.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,13 +8,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-B7tBNNfA.js",
+    "file": "assets/app-DYTOZ5yn.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-Cl3NMvu6.js",
-      "_client-Cl3NMvu6.js"
+      "_client-By3oic88.js",
+      "_client-By3oic88.js"
     ],
     "css": [
       "assets/app-yquDV9kD.css"
@@ -22,8 +22,8 @@
     "assets": [
       "assets/despacho-8-DlMtWi0s.webp",
       "assets/despacho-8@2x-1uw83Ffy.webp",
-      "assets/equipo-recorte-Bixt2ig3.webp",
-      "assets/equipo-recorte@2x-BW27VNGk.webp",
+      "assets/equipo-recorte-na_2VHLw.webp",
+      "assets/equipo-recorte@2x-BHi-Ihdu.webp",
       "assets/equipo-BOLa-K3Q.webp",
       "assets/equipo@2x-BzXvrBgt.webp",
       "assets/esradio-DCE3nZDZ.webp",
@@ -50,11 +50,11 @@
     "src": "src/assets/photos/despacho-8@2x.webp"
   },
   "src/assets/photos/equipo-recorte.webp": {
-    "file": "assets/equipo-recorte-Bixt2ig3.webp",
+    "file": "assets/equipo-recorte-na_2VHLw.webp",
     "src": "src/assets/photos/equipo-recorte.webp"
   },
   "src/assets/photos/equipo-recorte@2x.webp": {
-    "file": "assets/equipo-recorte@2x-BW27VNGk.webp",
+    "file": "assets/equipo-recorte@2x-BHi-Ihdu.webp",
     "src": "src/assets/photos/equipo-recorte@2x.webp"
   },
   "src/assets/photos/equipo.webp": {
