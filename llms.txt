@@ -10,6 +10,12 @@
 - Avisa al equipo del centro con el resumen de la conversación.
 - El operador lo ve todo en un panel, con un informe semanal.
 
+## Webs para centros
+A los centros que ya tienen el agente también les hacemos la web. Lee la misma hoja que el agente: enseña los despachos libres de cada sede con fotos, m², puestos y precio, y cada despacho lleva un botón de WhatsApp donde contesta el agente. Precio con la misma regla que el agente: la décima parte del valor que genera.
+
+## Apps para centros
+También les hacemos una app con la marca del centro para quienes ya trabajan en él: reservan salas y puestos con las horas de su plan, reciben el aviso de sus paquetes, tienen sus facturas y su contrato, avisan de visitas y de averías, y el mismo agente les contesta lo demás. A su equipo solo le llega lo que necesita a una persona. Mismo precio y plazo que el agente.
+
 ## Para quién
 Operadores de espacios flexibles de 1 a 15 sedes en España.
 
@@ -23,6 +29,8 @@ A medida para cada centro, según sus sedes y lo que necesite. Se prepara una pr
 - [Portada](https://www.simpliaspain.com/)
 - [Cómo funciona](https://www.simpliaspain.com/chatbots-multicanal)
 - [Cómo trabajamos](https://www.simpliaspain.com/como-trabajamos)
+- [Webs para centros](https://www.simpliaspain.com/webs)
+- [Apps para centros](https://www.simpliaspain.com/apps)
 - [Prueba gratis con tu web](https://demo.simpliaspain.com/?o=web)
 - [Contacto](https://www.simpliaspain.com/contacto)
 - [Entrevista en Madrid Norte 24 horas](https://www.madridnorte24horas.com/articulo/tendencias/simplia-startup-espanola-que-impulsa-agentes-telefonicos-inteligencia-artificial-empresas/20260621100037129472.html)
