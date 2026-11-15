@@ -1,1 +1,11 @@
-/*    /index.html   200
+# Cloudflare Pages redirects. GitHub Pages ignores this file.
+#
+# Deliberately no catch-all rule. Every page is prerendered to its own
+# HTML file (dirStyle "flat"), and Cloudflare Pages already serves
+# /contacto from contacto.html. An unknown URL must get 404.html with a
+# real 404 status: a "/*  /index.html  200" rule here would answer every
+# broken link with the home page and a 200, which Google reports as a
+# soft 404. The deploy-cloudflare workflow fails if such a rule returns.
+#
+# The apex simpliaspain.com -> www redirect is a Cloudflare Redirect Rule
+# on the zone, not a line here: this file only sees paths, not hosts.
