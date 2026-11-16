@@ -1,6 +1,6 @@
 {
-  "_client-By3oic88.js": {
-    "file": "assets/client-By3oic88.js",
+  "_client-DOGGnOA1.js": {
+    "file": "assets/client-DOGGnOA1.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,13 +8,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-DYTOZ5yn.js",
+    "file": "assets/app-BIMqaRV9.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-By3oic88.js",
-      "_client-By3oic88.js"
+      "_client-DOGGnOA1.js",
+      "_client-DOGGnOA1.js"
     ],
     "css": [
       "assets/app-yquDV9kD.css"
