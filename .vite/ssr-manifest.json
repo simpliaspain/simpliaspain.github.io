@@ -32,7 +32,7 @@
     "/assets/oficinasya-DCZI6O70.png"
   ],
   "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/client.js?commonjs-exports": [
-    "/assets/client-Cc5rjPf1.js"
+    "/assets/client-17ih_pGo.js"
   ],
   "\u0000/home/runner/work/websimpliaspain/websimpliaspain/node_modules/react-dom/index.js?commonjs-module": [
     "/assets/despacho-8-DlMtWi0s.webp",
@@ -5491,7 +5491,7 @@
     "/assets/oficinasya-DCZI6O70.png"
   ],
   "node_modules/react-dom/client.js": [
-    "/assets/client-Cc5rjPf1.js"
+    "/assets/client-17ih_pGo.js"
   ],
   "node_modules/react-dom/index.js": [
     "/assets/despacho-8-DlMtWi0s.webp",
@@ -6325,6 +6325,22 @@
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/oficinasya-DCZI6O70.png"
   ],
+  "src/components/LegalPage.tsx": [
+    "/assets/despacho-8-DlMtWi0s.webp",
+    "/assets/despacho-8@2x-1uw83Ffy.webp",
+    "/assets/equipo-recorte-na_2VHLw.webp",
+    "/assets/equipo-recorte@2x-BHi-Ihdu.webp",
+    "/assets/equipo-BOLa-K3Q.webp",
+    "/assets/equipo@2x-BzXvrBgt.webp",
+    "/assets/esradio-DCE3nZDZ.webp",
+    "/assets/ieavanzado-DLFwy-fH.webp",
+    "/assets/ieavanzado@2x-BIqGYOj_.webp",
+    "/assets/madridnorte24h-CQSMlvkH.jpg",
+    "/assets/madridnorte24h@2x-nmKLPta1.jpg",
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/oficinasya-DCZI6O70.png"
+  ],
   "src/components/MainMenu.tsx": [
     "/assets/despacho-8-DlMtWi0s.webp",
     "/assets/despacho-8@2x-1uw83Ffy.webp",
@@ -6901,6 +6917,22 @@
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/oficinasya-DCZI6O70.png"
   ],
+  "src/lib/legal.ts": [
+    "/assets/despacho-8-DlMtWi0s.webp",
+    "/assets/despacho-8@2x-1uw83Ffy.webp",
+    "/assets/equipo-recorte-na_2VHLw.webp",
+    "/assets/equipo-recorte@2x-BHi-Ihdu.webp",
+    "/assets/equipo-BOLa-K3Q.webp",
+    "/assets/equipo@2x-BzXvrBgt.webp",
+    "/assets/esradio-DCE3nZDZ.webp",
+    "/assets/ieavanzado-DLFwy-fH.webp",
+    "/assets/ieavanzado@2x-BIqGYOj_.webp",
+    "/assets/madridnorte24h-CQSMlvkH.jpg",
+    "/assets/madridnorte24h@2x-nmKLPta1.jpg",
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/oficinasya-DCZI6O70.png"
+  ],
   "src/lib/photos.ts": [
     "/assets/despacho-8-DlMtWi0s.webp",
     "/assets/despacho-8@2x-1uw83Ffy.webp",
@@ -6918,6 +6950,22 @@
     "/assets/oficinasya-DCZI6O70.png"
   ],
   "src/lib/scroll-lock.ts": [
+    "/assets/despacho-8-DlMtWi0s.webp",
+    "/assets/despacho-8@2x-1uw83Ffy.webp",
+    "/assets/equipo-recorte-na_2VHLw.webp",
+    "/assets/equipo-recorte@2x-BHi-Ihdu.webp",
+    "/assets/equipo-BOLa-K3Q.webp",
+    "/assets/equipo@2x-BzXvrBgt.webp",
+    "/assets/esradio-DCE3nZDZ.webp",
+    "/assets/ieavanzado-DLFwy-fH.webp",
+    "/assets/ieavanzado@2x-BIqGYOj_.webp",
+    "/assets/madridnorte24h-CQSMlvkH.jpg",
+    "/assets/madridnorte24h@2x-nmKLPta1.jpg",
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/oficinasya-DCZI6O70.png"
+  ],
+  "src/lib/session-memory.ts": [
     "/assets/despacho-8-DlMtWi0s.webp",
     "/assets/despacho-8@2x-1uw83Ffy.webp",
     "/assets/equipo-recorte-na_2VHLw.webp",
@@ -7013,6 +7061,22 @@
     "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
     "/assets/oficinasya-DCZI6O70.png"
   ],
+  "src/pages/AvisoLegal.tsx": [
+    "/assets/despacho-8-DlMtWi0s.webp",
+    "/assets/despacho-8@2x-1uw83Ffy.webp",
+    "/assets/equipo-recorte-na_2VHLw.webp",
+    "/assets/equipo-recorte@2x-BHi-Ihdu.webp",
+    "/assets/equipo-BOLa-K3Q.webp",
+    "/assets/equipo@2x-BzXvrBgt.webp",
+    "/assets/esradio-DCE3nZDZ.webp",
+    "/assets/ieavanzado-DLFwy-fH.webp",
+    "/assets/ieavanzado@2x-BIqGYOj_.webp",
+    "/assets/madridnorte24h-CQSMlvkH.jpg",
+    "/assets/madridnorte24h@2x-nmKLPta1.jpg",
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/oficinasya-DCZI6O70.png"
+  ],
   "src/pages/ChatbotsMulticanal.tsx": [
     "/assets/despacho-8-DlMtWi0s.webp",
     "/assets/despacho-8@2x-1uw83Ffy.webp",
@@ -7078,6 +7142,22 @@
     "/assets/oficinasya-DCZI6O70.png"
   ],
   "src/pages/NotFound.tsx": [
+    "/assets/despacho-8-DlMtWi0s.webp",
+    "/assets/despacho-8@2x-1uw83Ffy.webp",
+    "/assets/equipo-recorte-na_2VHLw.webp",
+    "/assets/equipo-recorte@2x-BHi-Ihdu.webp",
+    "/assets/equipo-BOLa-K3Q.webp",
+    "/assets/equipo@2x-BzXvrBgt.webp",
+    "/assets/esradio-DCE3nZDZ.webp",
+    "/assets/ieavanzado-DLFwy-fH.webp",
+    "/assets/ieavanzado@2x-BIqGYOj_.webp",
+    "/assets/madridnorte24h-CQSMlvkH.jpg",
+    "/assets/madridnorte24h@2x-nmKLPta1.jpg",
+    "/assets/simplia-demo-1024-BmgMIDe_.mp4",
+    "/assets/simplia-demo-poster-1024-DH3EJkm8.webp",
+    "/assets/oficinasya-DCZI6O70.png"
+  ],
+  "src/pages/PoliticaCookies.tsx": [
     "/assets/despacho-8-DlMtWi0s.webp",
     "/assets/despacho-8@2x-1uw83Ffy.webp",
     "/assets/equipo-recorte-na_2VHLw.webp",
