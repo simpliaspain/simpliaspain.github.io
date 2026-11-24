@@ -1,6 +1,6 @@
 {
-  "_client-17ih_pGo.js": {
-    "file": "assets/client-17ih_pGo.js",
+  "_client-BiQBtmx8.js": {
+    "file": "assets/client-BiQBtmx8.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,13 +8,13 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-BMZ8P_91.js",
+    "file": "assets/app-CC9bBPNN.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-17ih_pGo.js",
-      "_client-17ih_pGo.js"
+      "_client-BiQBtmx8.js",
+      "_client-BiQBtmx8.js"
     ],
     "css": [
       "assets/app-7DH9HZ5-.css"
